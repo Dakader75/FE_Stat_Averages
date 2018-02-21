@@ -1,1 +1,0 @@
-# FE_Stat_Averages
